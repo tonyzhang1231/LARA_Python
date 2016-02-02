@@ -1,0 +1,5 @@
+recommend, price, quality, worth, food 
+service, minute, wait, staff, order
+location, park, atmosphere, place, room
+pork, chicken, beef, rib
+shrimp, oyster, egg, sauce, bread

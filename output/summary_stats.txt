@@ -1,0 +1,7 @@
+Total Num Of Rest = 18
+
+Total Num Of Reviews = 32048
+
+Total Num Of Annotated Reviews = 32048
+
+Stns per Review = 6.22647279081 +- 4.819897408
