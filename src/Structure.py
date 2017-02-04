@@ -90,10 +90,7 @@ class Restaurant:
 
 def compare_label(label,l):
     return label in l
-    # if type(l) is list:
-    #     return label in l
-    # else:
-    #     return label==l
+
 
 
 def sent_aspect_match(stn,aspects):  ## one sent and all aspect terms, return hit counts for each aspect term

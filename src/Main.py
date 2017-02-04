@@ -45,10 +45,6 @@ def run_bootstrap():
     produce_data_for_rating(BSanalyzer,data,W_outputfolderpath)
 
     print_summary_stats(data)
+
 if __name__ == "__main__":
-    # run_CreateVocab()
     run_bootstrap()
-
-
-# run_CreateVocab()
-run_bootstrap()
